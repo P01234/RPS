@@ -5,7 +5,7 @@
 }
 body{
     background: rgb(61,138,142);
-    background-image: url(/RPS/images/blackBackground.webp);
+    background-image: url(/images/blackBackground.webp);
     background-repeat: no-repeat;
     background-size:cover;
     height:100vh;
@@ -72,7 +72,7 @@ body{
     display:flex;
     justify-content:center;
     align-items: center;
-    background-image:url(/RPS/images/blackBackground2.webp);
+    background-image:url(/images/blackBackground2.webp);
     width: 100%;
     height: 300px;
     flex:1;
