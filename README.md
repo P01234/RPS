@@ -1,3 +1,3 @@
 # RPS
 Simple RockPaperScissors
-<p>This was my very first project with javascript. Here i learned the basics of DOM manipulation.</p>
+<p>It is my very first project with javascript. Where I've learned the basics of DOM manipulation. Didn't know about functions though.</p>
